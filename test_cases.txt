@@ -1,0 +1,6 @@
+- Create an instance of DirFiles
+- Call 'create_folder' method
+- Given a name, create a folder in the current working directory
+- Given a path, Create a "subfolders" given a base path
+- Call 'create_file' method
+- Given a name and path, create a file in the given path
